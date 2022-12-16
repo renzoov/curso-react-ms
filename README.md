@@ -1,1 +1,1 @@
-# curso-react-ms
+# Curso de React de Maximilian Schwarzmüller
